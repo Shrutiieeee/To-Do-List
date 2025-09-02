@@ -1,0 +1,1 @@
+A simple, elegant, and responsive To-Do List web application built using HTML, CSS, and JavaScript. This project demonstrates core DOM manipulation, event handling, and local storage integration to deliver a seamless task management experience.
